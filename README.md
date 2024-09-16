@@ -1,6 +1,6 @@
 Hey There!
 
-This is an manifest for Xiaomi Redmi Note 10 (sunny/mojito)
+This is an manifest for Xiaomi Redmi Note 8/8T (ginkgo/willow)
 
 # UDC #
 ----------------
