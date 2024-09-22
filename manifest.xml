@@ -7,5 +7,5 @@
   
   <project path="device/xiaomi/ginkgo" remote="alphadroid-devices" name="device_xiaomi_ginkgo" />
   <project path="vendor/xiaomi/ginkgo" remote="alphadroid-devices" name="vendor_xiaomi_ginkgo" />
-  <project path="kernel/xiaomi/ginkgo" remote="alphadroid-devices" name="vendor_xiaomi_ginkgo" />
+  <project path="kernel/xiaomi/ginkgo" remote="alphadroid-devices" name="kernel_xiaomi_ginkgo" />
 </manifest>
